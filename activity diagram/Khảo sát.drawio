@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T16:06:09.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.16" etag="nVqEGdW-c4ifU7cHXN7b" type="github"><diagram name="Page-1" id="WmsexuxsjbCVDZGBnqSc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T16:24:35.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iU3b4PKgRiCz0piG9jKC" version="20.8.16" type="github">
+  <diagram name="Danh sách" id="WmsexuxsjbCVDZGBnqSc">
+    <mxGraphModel dx="1615" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-1" value="Lấy danh sách khảo sát" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220.00000000000045" y="105" width="560" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-2" value="Người dùng" style="swimlane;startSize=20;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-1">
+          <mxGeometry y="20" width="290" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-2">
+          <mxGeometry x="109.99999999999955" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="cKbZnNItbRX3zDlzvNt0-5" parent="cKbZnNItbRX3zDlzvNt0-2" target="cKbZnNItbRX3zDlzvNt0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124.99999999999955" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-7" value="Chọn chức năng Khảo sat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-2">
+          <mxGeometry x="65" y="135" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-10" value="Chọn phân loại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-2">
+          <mxGeometry x="65" y="225" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-3" value="Hệ thống" style="swimlane;startSize=20;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-1">
+          <mxGeometry x="290" y="20" width="270" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-8" value="Hiển thị phân loại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-3">
+          <mxGeometry x="75" y="135" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=open;endFill=0;" edge="1" parent="cKbZnNItbRX3zDlzvNt0-3" source="cKbZnNItbRX3zDlzvNt0-12" target="cKbZnNItbRX3zDlzvNt0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-12" value="Hiển thị danh sách khảo sát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-3">
+          <mxGeometry x="75" y="225" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="cKbZnNItbRX3zDlzvNt0-3">
+          <mxGeometry x="119.99999999999955" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;" edge="1" parent="cKbZnNItbRX3zDlzvNt0-1" source="cKbZnNItbRX3zDlzvNt0-7" target="cKbZnNItbRX3zDlzvNt0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;" edge="1" parent="cKbZnNItbRX3zDlzvNt0-1" source="cKbZnNItbRX3zDlzvNt0-8" target="cKbZnNItbRX3zDlzvNt0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKbZnNItbRX3zDlzvNt0-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;" edge="1" parent="cKbZnNItbRX3zDlzvNt0-1" source="cKbZnNItbRX3zDlzvNt0-10" target="cKbZnNItbRX3zDlzvNt0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
