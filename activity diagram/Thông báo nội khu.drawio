@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T14:14:43.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.16" etag="qC-A-0IRy_2JAKaYk64W" type="github"><diagram name="Page-1" id="NvIQ3Db_lpK5Fd7nzTep">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T14:21:25.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xZCGOjjPSGqSehdz3kL0" version="20.8.16" type="github">
+  <diagram name="Page-1" id="NvIQ3Db_lpK5Fd7nzTep">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-1" value="Thông báo nội khu" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180.00000000000045" y="90" width="520" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-2" value="Người dùng" style="swimlane;startSize=20;html=1;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-1">
+          <mxGeometry y="20" width="260" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-2">
+          <mxGeometry x="114.99999999999955" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="0CK30PYtFb3W8ryfQRUf-5" parent="0CK30PYtFb3W8ryfQRUf-2" target="0CK30PYtFb3W8ryfQRUf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.99999999999955" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-7" value="Chọn chức năng Thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-2">
+          <mxGeometry x="70" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-10" value="Chọn phòng ban" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-2">
+          <mxGeometry x="69.99999999999955" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-14" value="Chọn danh thông báo muốn xem" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-2">
+          <mxGeometry x="70" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-3" value="Hệ thống" style="swimlane;startSize=20;html=1;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-1">
+          <mxGeometry x="260" y="20" width="260" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-8" value="Hiển thị tab thông báo theo phòng ban" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-3">
+          <mxGeometry x="69.99999999999955" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-12" value="Hiển thị danh sách Thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-3">
+          <mxGeometry x="69.99999999999955" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-3" source="0CK30PYtFb3W8ryfQRUf-16" target="0CK30PYtFb3W8ryfQRUf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-16" value="Hiển thị chi tiết thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-3">
+          <mxGeometry x="69.99999999999955" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="0CK30PYtFb3W8ryfQRUf-3">
+          <mxGeometry x="114.99999999999955" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-7" target="0CK30PYtFb3W8ryfQRUf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-8" target="0CK30PYtFb3W8ryfQRUf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-10" target="0CK30PYtFb3W8ryfQRUf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-12" target="0CK30PYtFb3W8ryfQRUf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CK30PYtFb3W8ryfQRUf-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-14" target="0CK30PYtFb3W8ryfQRUf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
