@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T14:52:07.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gPWuRdHDvrpn5QCrXYDD" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-10T15:09:04.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kD8KVAOddDUkI4StcAGS" version="20.8.20" type="github" pages="4">
   <diagram name="xem bảng tin v" id="VzCAWSFs5JvdR3XQTIHK">
     <mxGraphModel dx="700" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
         <mxCell id="iPgjUM2ivw9AsORNVHpN-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iPgjUM2ivw9AsORNVHpN-1" target="iPgjUM2ivw9AsORNVHpN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iPgjUM2ivw9AsORNVHpN-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iPgjUM2ivw9AsORNVHpN-1" value="Người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="265" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iPgjUM2ivw9AsORNVHpN-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iPgjUM2ivw9AsORNVHpN-2" target="iPgjUM2ivw9AsORNVHpN-3">
@@ -180,14 +180,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QmHeTdBLmDzGDYJNH6MJ" name="Xem hồ sơ người dùng">
-    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OJu4jH_J2IksOyhToTQw-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OJu4jH_J2IksOyhToTQw-1" target="OJu4jH_J2IksOyhToTQw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OJu4jH_J2IksOyhToTQw-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OJu4jH_J2IksOyhToTQw-1" value="Người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJu4jH_J2IksOyhToTQw-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OJu4jH_J2IksOyhToTQw-2" target="OJu4jH_J2IksOyhToTQw-3">
