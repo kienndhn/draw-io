@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T14:37:19.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AEyhDiSrt_sFqPzH4BMk" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-10T14:38:51.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cvOn5CIRu2UHd6pmbPtQ" version="20.8.20" type="github" pages="2">
   <diagram name="xem bảng tin" id="VzCAWSFs5JvdR3XQTIHK">
     <mxGraphModel dx="700" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,7 @@
         <mxCell id="hjuAfhWbVsYGKxymHDDP-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="hjuAfhWbVsYGKxymHDDP-2" target="hjuAfhWbVsYGKxymHDDP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hjuAfhWbVsYGKxymHDDP-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="hjuAfhWbVsYGKxymHDDP-2" target="hjuAfhWbVsYGKxymHDDP-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hjuAfhWbVsYGKxymHDDP-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="hjuAfhWbVsYGKxymHDDP-2" target="hjuAfhWbVsYGKxymHDDP-3">
+        <mxCell id="hjuAfhWbVsYGKxymHDDP-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="hjuAfhWbVsYGKxymHDDP-2" target="hjuAfhWbVsYGKxymHDDP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hjuAfhWbVsYGKxymHDDP-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="hjuAfhWbVsYGKxymHDDP-2" target="hjuAfhWbVsYGKxymHDDP-7">
