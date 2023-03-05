@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T14:19:20.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-Yjak2ReybeHH2nVqt1e" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-05T14:22:16.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j9N-MO1vcmo6qeLc8Nlr" version="21.0.2" type="github" pages="2">
   <diagram name="Xem thông báo nội khu" id="NvIQ3Db_lpK5Fd7nzTep">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0CK30PYtFb3W8ryfQRUf-1" value="Thông báo nội khu" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180.00000000000045" y="90" width="340" height="470" as="geometry" />
+          <mxGeometry x="180.00000000000045" y="90" width="660" height="470" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-2" value="Người dùng" style="swimlane;startSize=20;html=1;" parent="0CK30PYtFb3W8ryfQRUf-1" vertex="1">
-          <mxGeometry y="20" width="160" height="450" as="geometry" />
+          <mxGeometry y="20" width="330" height="450" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-2" vertex="1">
-          <mxGeometry x="64.99999999999955" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="143.99999999999955" y="20" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="0CK30PYtFb3W8ryfQRUf-2" source="0CK30PYtFb3W8ryfQRUf-5" target="0CK30PYtFb3W8ryfQRUf-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -19,13 +19,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-7" value="Chọn chức năng Thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-2" vertex="1">
-          <mxGeometry x="20" y="110" width="120" height="40" as="geometry" />
+          <mxGeometry x="84" y="80" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-10" value="Chọn phòng ban" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-2" vertex="1">
-          <mxGeometry x="19.999999999999545" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="84" y="190" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-14" value="Chọn danh thông báo muốn xem" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-2" vertex="1">
-          <mxGeometry x="20" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="85" y="290" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;" parent="0CK30PYtFb3W8ryfQRUf-1" source="0CK30PYtFb3W8ryfQRUf-7" target="0CK30PYtFb3W8ryfQRUf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,13 +43,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-3" value="Hệ thống" style="swimlane;startSize=20;html=1;" parent="0CK30PYtFb3W8ryfQRUf-1" vertex="1">
-          <mxGeometry x="160" y="20" width="180" height="450" as="geometry" />
+          <mxGeometry x="330" y="20" width="330" height="450" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-8" value="Hiển thị tab thông báo theo phòng ban" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-3" vertex="1">
-          <mxGeometry x="44.999999999999545" y="110" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-12" value="Hiển thị danh sách Thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-3" vertex="1">
-          <mxGeometry x="44.999999999999545" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="0CK30PYtFb3W8ryfQRUf-3" source="0CK30PYtFb3W8ryfQRUf-16" target="0CK30PYtFb3W8ryfQRUf-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -57,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-16" value="Hiển thị chi tiết thông báo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-3" vertex="1">
-          <mxGeometry x="44.999999999999545" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="290" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CK30PYtFb3W8ryfQRUf-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="0CK30PYtFb3W8ryfQRUf-3" vertex="1">
-          <mxGeometry x="89.99999999999955" y="360" width="30" height="30" as="geometry" />
+          <mxGeometry x="124.99999999999955" y="390" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
